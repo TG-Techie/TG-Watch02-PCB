@@ -5119,7 +5119,7 @@ by exp-lbrs.ulp</description>
 <part name="R3" library="0TG-Lib v01.5" deviceset="R_TG" device="_0402" value="11k"/>
 <part name="R13" library="0TG-Lib v01.5" deviceset="R_TG" device="_0402" value="10k"/>
 <part name="U$3" library="0TG-Lib v01.5" deviceset="CON_SWD_POGO" device=""/>
-<part name="D3" library="0TG-Lib v01.5" deviceset="DIODE" device="SOD-523" value="BAS16XV2T1G"/>
+<part name="D3" library="0TG-Lib v01.5" deviceset="DIODE" device="SOD-523"/>
 <part name="R1" library="0TG-Lib v01.5" deviceset="R_TG" device="_0402" value="10k"/>
 <part name="C2" library="0TG-Lib v01.5" deviceset="C-US_" device="_0402_NOMASK" value="10uf"/>
 <part name="C4" library="0TG-Lib v01.5" deviceset="C-US_" device="_0402_NOMASK" value="10uf"/>
@@ -5480,11 +5480,11 @@ Type-c</text>
 <instance part="U$3" gate="A" x="347.98" y="71.12" smashed="yes"/>
 <instance part="D3" gate="G$1" x="58.42" y="205.74" smashed="yes" rot="R270">
 <attribute name="NAME" x="60.96" y="205.74" size="1.27" layer="95" rot="R270" align="center"/>
-<attribute name="VALUE" x="55.92" y="200.66" size="1.27" layer="96" rot="R270" align="center"/>
+<attribute name="VALUE" x="55.92" y="205.74" size="1.27" layer="96" rot="R270" align="center"/>
 </instance>
 <instance part="R1" gate="A" x="58.42" y="215.9" smashed="yes" rot="R90">
-<attribute name="NAME" x="56.388" y="213.36" size="1.27" layer="95" font="vector" rot="R90"/>
-<attribute name="VALUE" x="61.595" y="213.36" size="1.27" layer="96" font="vector" rot="R90"/>
+<attribute name="NAME" x="56.388" y="203.2" size="1.27" layer="95" font="vector" rot="R90"/>
+<attribute name="VALUE" x="61.595" y="203.2" size="1.27" layer="96" font="vector" rot="R90"/>
 </instance>
 <instance part="C2" gate="G$1" x="147.32" y="25.4" smashed="yes" rot="R180">
 <attribute name="NAME" x="149.61" y="24.15" size="1.27" layer="95" font="vector" rot="R270" align="center"/>
@@ -5528,7 +5528,7 @@ Type-c</text>
 <attribute name="VALUE" x="93.98" y="43.18" size="1.27" layer="95"/>
 </instance>
 <instance part="SW1" gate="G$1" x="53.34" y="210.82" smashed="yes">
-<attribute name="NAME" x="46.355" y="207.01" size="1.27" layer="95"/>
+<attribute name="NAME" x="48.895" y="204.47" size="1.27" layer="95"/>
 <attribute name="VALUE" x="48.26" y="214.63" size="1.27" layer="96"/>
 </instance>
 </instances>

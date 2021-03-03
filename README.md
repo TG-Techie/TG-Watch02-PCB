@@ -17,6 +17,9 @@ Some of its features include:
 ## Software
 The TG-Watch was designed to run circuitpython, this gives anyone the flexibility to run what they can write. Additionally, there is on-going development for a python GUI framework (TG-Gui-4 and TG-Gui 5) that runs on the watch. This framework is intended to make writing UI programs to run on the fun and approachable. (Currently under going a re-write)
 
+## Examples
+Updates about software and hardware are often posted to twitter, [here](https://twitter.com/TG_Techie).
+
 ## What's on it?
 - 2295018-2, USB Type-C Connector
 - LSM6DSOX, accel & gyro
